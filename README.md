@@ -1,6 +1,6 @@
 A website based on jolliness.
 
-On pressing the start button, balloons appear which u need to click on them to burst.
+On pressing the start button, balloons appear which u need to click on them to burst. On bursting, a random message indicating joyfullness appears.
 
 Saves High Score.
 
